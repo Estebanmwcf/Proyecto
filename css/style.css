@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+/* font-family: 'Bangers', cursive;
+font-family: 'Carter One', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive; */
+/* index */
+
+header{
+    position: fixed;
+    margin-top:-130px;
+    width: 100%;
+}
+
+.logo{
+    color: white;
+    font-family: 'Great Vibes', cursive;
+    font-size: 70px;
+    text-decoration: none;
+    background-color: black;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+  
+}
+.navlink{
+    color: red;
+    text-decoration: none;
+    margin: 5px;
+    padding:5px;
+    background-color: black;
+}
+.navbar-nav{
+    font-family: 'Bangers', cursive;
+    font-size: 35px;
+    display: flex;
+    color: red;
+}
+nav {
+    background-color: black;
+    
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 200px;
+    margin-top: 130px;
+    padding: 150px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    margin-top: 100px;
+    padding: 90px;
+    color: red;
+    font-family: 'Carter One', cursive;
+    font-size: 35px;
+}
+footer div a{
+    color: red;
+    font-size: 50px;
+   
+   
+}
+
+
+/* videos */
+.h2inicio{
+    margin-top: 115px;
+    padding: 116px;
+}
+
+/* audios */
+
+
+/* fotos */
+/* shows */
+/* contacto */
